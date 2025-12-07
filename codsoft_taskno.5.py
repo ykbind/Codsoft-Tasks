@@ -176,3 +176,4 @@ class ContactManager(tk.Tk):
 # ---------------- RUN APP ----------------
 if __name__ == "__main__":
     ContactManager().mainloop()
+
